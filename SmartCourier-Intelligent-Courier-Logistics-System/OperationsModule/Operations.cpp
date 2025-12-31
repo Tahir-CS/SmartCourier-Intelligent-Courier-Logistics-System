@@ -17,4 +17,8 @@ void Operations::processNextParcel() {
 
 void Operations::showQueueStatus() {
     cout << "[Ops] Parcels in Processing Queue: " << processingQueue.size() << endl;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 2fc7ef34f27b8383a6908b4f51ed95afb32ff1a4
